@@ -878,7 +878,7 @@ p {
 
     .container .pro {
         width: 30%;
-        min-width: 355px;
+        min-width: 375px;
         padding: 10 12px;
         border: solid 1px #cce7d0;
         border-radius: 25px;
@@ -890,7 +890,7 @@ p {
     }
     .container .proz {
         width: 30%;
-        min-width: 400px;
+        min-width: 355px;
         padding: 10 12px;
         border: solid 1px #cce7d0;
         border-radius: 25px;
@@ -912,16 +912,15 @@ p {
         justify-content: center;
         align-items: flex-start;
         background-image: url(/images/banner1.png);
-        min-width: 360px;
+        min-width: 375px;
         height: 20vh;
         background-size: cover;
         background-position: center;
-        padding: 30px;
+        padding: 25px;
     }
 
     #sm-banner1 .banner-box2 {
         background-image: url(/images/banner2.avif);
-        margin-right: 1%;
     }
 
     #sm-banner1 h4 {
@@ -1291,9 +1290,9 @@ p {
         min-width: 400px;
         padding: 30px;
     }
-    .container .proz {
+    .container .pro-container .proz {
         width: 30%;
-        min-width: 390px;
+        min-width: 395px;
         padding: 30px;
     }
 
