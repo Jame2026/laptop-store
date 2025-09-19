@@ -1282,13 +1282,12 @@ p {
     }
     
     .container .pro-container {
-        display: grid;
-        grid-template-columns: 1fr;
-        
+        display: flex;
+        flex-wrap: wrap;
     }
     .container .pro-container .pro {
         width: 30%;
-        min-width: 385px;
+        min-width: 392px;
         padding: 10px;
         display: flex;
     }
